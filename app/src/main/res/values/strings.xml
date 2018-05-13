@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MIDI Maker</string>
+    <string name="info">Desarrolladores: \nAnder Benito \nIban Obregozo \nIrene San Jose\n</string>
+    <string name="tutorial">Pulsa en el botón analizar, despues solo tienes que seleccionar
+        el archivo de audio que quieras traducir y esperar a la descarga\n
+    </string>
+</resources>
